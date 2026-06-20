@@ -47,9 +47,9 @@
 
 ### 📱 找我玩
 
-[![酷安](https://img.shields.io/badge/酷安-@AkiHaza-12B7F5?style=flat-square&logo=android&logoColor=white)](https://www.coolapk.com/u/TODO)
-[![Telegram](https://img.shields.io/badge/Telegram-@AkiHaza-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TODO)
-[![Bilibili](https://img.shields.io/badge/Bilibili-@AkiHaza-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/TODO)
+[![酷安](https://img.shields.io/badge/酷安-@AkiHaza-12B7F5?style=flat-square&logo=android&logoColor=white)](https://www.coolapk.com/u/27195819)
+[![Telegram](https://img.shields.io/badge/Telegram-@simokio-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/simokio)
+[![Bilibili](https://img.shields.io/badge/Bilibili-@AkiHaza-FB7299?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1570668674)
 
 </div>
 
