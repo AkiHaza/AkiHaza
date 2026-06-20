@@ -31,20 +31,6 @@
 
 <div align="center">
 
-### 🔭 正在折腾
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiHaza&repo=Comet-Thread-Opt&bg_color=0d1117&title_color=a8c7fa&text_color=c9d1d9&icon_color=FFA07A&border_color=30363d" />](https://github.com/AkiHaza/Comet-Thread-Opt)
-&nbsp;
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiHaza&repo=Yukari&bg_color=0d1117&title_color=a8c7fa&text_color=c9d1d9&icon_color=FFA07A&border_color=30363d" />](https://github.com/AkiHaza/Yukari)
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=AkiHaza&repo=Floran-Kernel&bg_color=0d1117&title_color=a8c7fa&text_color=c9d1d9&icon_color=FFA07A&border_color=30363d" />](https://github.com/AkiHaza/Floran-Kernel)
-
-</div>
-
----
-
-<div align="center">
-
 ### 📱 找我玩
 
 [![酷安](https://img.shields.io/badge/酷安-@AkiHaza-12B7F5?style=flat-square&logo=android&logoColor=white)](https://www.coolapk.com/u/27195819)
