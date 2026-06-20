@@ -10,8 +10,8 @@
 
 **学生党 / 业余安卓开发者**
 
-🌱 在 Android 底层的深渊里摸爬滚打  
-🔧 内核编译 · Zygisk 模块 · 线程调优 · Root 方案  
+🌱 喜好Root•刷机，是一只懒懒的大猫猫  
+🔧 没事写一些自己用の小模块  
 💤 代码跑不起来的时候就去睡一觉 —— 醒来大概就好了
 
 </div>
@@ -46,8 +46,6 @@
 ### 📊 GitHub Stats
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkiHaza&show_icons=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=a8c7fa&text_color=c9d1d9&icon_color=FFA07A&border_color=30363d" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkiHaza&layout=compact&bg_color=0d1117&title_color=a8c7fa&text_color=c9d1d9&border_color=30363d" />
 
 </div>
 
